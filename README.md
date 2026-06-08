@@ -1,5 +1,7 @@
 <img width="1885" height="854" alt="Screenshot 2026-06-08 123753" src="https://github.com/user-attachments/assets/1ae8b13a-b091-4e2c-a54b-261e5892a16a" />
+
 <img width="1867" height="849" alt="Screenshot 2026-06-08 123648" src="https://github.com/user-attachments/assets/4da517a5-69b9-4c70-977c-332b8e02b4bb" />
+
 <img width="1353" height="842" alt="Screenshot 2026-06-08 123448" src="https://github.com/user-attachments/assets/514f8c09-b610-4db0-a967-25ddadfb4c10" />
 # Smart Property Value Predictor (SPVP) - Professional Edition
 
